@@ -7,4 +7,4 @@ sudo chmod 777 start_clk.sh
 ./start_clk.sh
 ```
 
-To stop the clock, simply press `Ctrl+C`.s
+To stop the clock, simply press `Ctrl+C`.
